@@ -50,3 +50,4 @@ Credit for those patches goes to Daniel Bylinka (daniel.bylinka@gmail.com).
 * Add requirements file `REQUI.md`
 * Local install `Makefile`
 * Personal dwmstatus `config.h`
+* Restore `config.h` as original, now compile using `myconfig.h` to avoid merge conflict
