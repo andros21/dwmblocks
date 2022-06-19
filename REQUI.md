@@ -13,3 +13,4 @@ Particolar requirements, you should install/set if you want to compile and use t
 
 **conf**, see [here](https://github.com/andros21/dotfiles)
   * Xresources (global settings and aspects)
+  * custom scripts executed by dwmblocks (e.g sb-clock)
